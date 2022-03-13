@@ -1,0 +1,1 @@
+# Законченные Jupyter Notebooks из [курса по глубокому обучению](https://www.dlschool.org/)
